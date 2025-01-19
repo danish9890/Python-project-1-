@@ -6,6 +6,7 @@ should_we_play = input("Do you want to play? ").lower()
 
 if should_we_play == "y" or should_we_play == "yes":
     print("We are gonna play!")
+    print("start")
 
     direction = input("Do you want to go left or right? (left/right) ").lower()
     if direction == "left":
