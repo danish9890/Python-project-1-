@@ -1,5 +1,6 @@
 name = input("Hey type your name: ")
 print("Hello " + name + " welcome to my game!")
+print("lets play")
 
 should_we_play = input("Do you want to play? ").lower()
 
